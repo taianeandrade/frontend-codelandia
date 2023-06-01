@@ -1,2 +1,2 @@
 # frontend-codelandia
-Projetos frontends
+Projetos frontend
